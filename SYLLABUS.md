@@ -21,8 +21,8 @@
         - [x] if-else
         - [x] loops
         - [x] Switch statements
-    - Data-types
-    - Coding best practices
+    - [x] Data-types
+    - [x] Coding best practices
 - Functions
     - Introduction
     - Scoping in Java
@@ -30,10 +30,10 @@
     - Variable Length Arguments
     - Overloading
 - Arrays
-    - Introduction
-    - Memory management
-    - Input and Output
-    - ArrayList Introduction
+    - [x] Introduction
+    - [x] Memory management
+    - [x] Input and Output
+    - [x] ArrayList Introduction
     - Searching
         - Linear Search 
         - Binary Search
