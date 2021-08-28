@@ -1,7 +1,7 @@
 # Complete Java + DSA Bootcamp Syllabus
 
 ## NOTE: 
-- [x] All topics will contain problems from LeetCode Easy to Hard, explained in an easy-to-understand manner.
+- All topics will contain problems from LeetCode Easy to Hard, explained in an easy-to-understand manner.
 - Complete custom implementation of all Data Structures and Algorithms.
 
 ## Lectures
@@ -9,18 +9,18 @@
 - Introduction to Programming
     - Types of languages
     - Memory management
-- Flow of the program
-    - Flowcharts
-    - Pseudocode
+- [x] Flow of the program
+    - [x] Flowcharts
+    - [x] Pseudocode
 - Introduction to Java
     - Introduction
     - How it works 
     - Setup Installation
     - Input and Output in Java
     - Conditionals & Loops in Java
-        - if-else
-        - loops
-        - Switch statements
+        - [x] if-else
+        - [x] loops
+        - [x] Switch statements
     - Data-types
     - Coding best practices
 - Functions
